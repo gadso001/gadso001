@@ -1,7 +1,7 @@
 # Brief Temporary Introduction 
 - 👋 Hi, I’m @gadso001
-- 👀 I’m interested in ... a variety of disciplines 
-- 🌱 I’m currently learning ... a variety of disciplines
+- 👀 I’m interested in ... a variety of disciplines, but I am very passionated about health
+- 🌱 I’m currently on track to be learning artificial intelligence... 
 - 💞️ I’m looking to collaborate on ... a variety of disciplines
 - 📫 How to reach me ... you can follow me on here or message me on facebook.com/legacyic
 
